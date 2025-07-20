@@ -48,6 +48,7 @@ This project demonstrates a simple and effective way to detect brain tumors from
 - Loss Function: `binary_crossentropy`
 
 ---
+##Demo video-https://drive.google.com/drive/folders/11R_H9yBeh5uqwmb4-w8XZM5SbOyhRtdV?usp=drive_link
 
 ## 📦 Requirements
 
